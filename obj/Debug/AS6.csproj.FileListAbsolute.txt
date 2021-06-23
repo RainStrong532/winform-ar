@@ -1,0 +1,10 @@
+E:\Study\LT âm thanh\VR\AS6\bin\Debug\AS6.exe.config
+E:\Study\LT âm thanh\VR\AS6\bin\Debug\AS6.exe
+E:\Study\LT âm thanh\VR\AS6\bin\Debug\AS6.pdb
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.csprojAssemblyReference.cache
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.Form1.resources
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.Properties.Resources.resources
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.csproj.GenerateResource.cache
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.csproj.CoreCompileInputs.cache
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.exe
+E:\Study\LT âm thanh\VR\AS6\obj\Debug\AS6.pdb
